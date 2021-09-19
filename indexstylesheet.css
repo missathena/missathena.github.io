@@ -46,3 +46,6 @@ a:visited{
 a:hover{
     color: #AA98A9;
 }
+.bold{
+font-weight: bold;
+}
