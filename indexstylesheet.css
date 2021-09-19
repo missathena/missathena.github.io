@@ -5,7 +5,7 @@ body{
 }
 img{
     width: 200px;
-    height: 250px;
+    height: 300px;
 }
 .center{
    display: block;
@@ -47,6 +47,6 @@ a:visited{
 a:hover{
     color: #AA98A9;
 }
-.bold{
+div{
 font-weight: bold;
 }
