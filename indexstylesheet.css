@@ -5,6 +5,7 @@ body{
 }
 img{
     width: 200px;
+    height: 250px;
 }
 .center{
    display: block;
